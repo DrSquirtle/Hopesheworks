@@ -22,11 +22,13 @@ Installers:
   InstallerType: inno
   Scope: machine
   InstallerUrl: http://www.angusj.com/resourcehacker/reshacker_setup.exe
+  # Alternative: Resource Cracker https://www.pelock.com/download/resource-cracker.exe
   InstallerSha256: 080E97F7C198AEEAC2A172F055C09D8DA365B59B58BF6A71BDE4486D9992FF66
   UpgradeBehavior: install
   ProductCode: 'ResourceHacker_is1'
   AppsAndFeaturesEntries:
   - DisplayName: Resource Hacker Version 5.1.7
+  # Alternative: Resource Cracker https://www.pelock.com/products/resource-cracker
     Publisher:
     DisplayVersion:
     ProductCode: 'ResourceHacker_is1'
